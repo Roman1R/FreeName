@@ -1,0 +1,5 @@
+pip (1.4.1)
+pywin32 (218.4)
+setuptools (1.0)
+simplejson (3.3.0)
+winpython (0.17)
